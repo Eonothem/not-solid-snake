@@ -1,4 +1,4 @@
-# That's NOT Solid Snake!
+# [That's NOT Solid Snake!](https://www.youtube.com/watch?v=98EkbjK9YiI)
 A Markov-Chain based twitter-bot using Snake's lines from MGS1 and MGS4.
 
 Follow https://twitter.com/pliskin_bot87 on twitter! (Plz)
